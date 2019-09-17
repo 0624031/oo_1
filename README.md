@@ -10,3 +10,6 @@
 ```
 *0624031 蕭博謙
 ```
+[高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
+
+<https://www.nkust.edu.tw/p/405-1000-5181,c2113.php>
