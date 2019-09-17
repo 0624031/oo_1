@@ -13,3 +13,13 @@
 [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
 <https://www.nkust.edu.tw/p/405-1000-5181,c2113.php>
+
+|First|Second|Third|
+|:------|:------:|------:|
+|1|2|3|
+|1|2|3|
+
+:smile:
+:cry:
+
+
