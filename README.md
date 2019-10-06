@@ -38,13 +38,18 @@
  4. 選擇付款方式，例如信用卡或是超商付款
 
 #### 使用案例圖
-![NKFUST](uc.PNG "第一科大")
+![NKFUST](uc.PNG "使用案例圖")
 
 ##### User Story
  * 使用者可以利用條件搜尋，例如電影名稱、播放時段等
  * 使用者在登入後可以把要看的電影加入到購物車
 
 ##### 初步類別圖
+![NKFUST](p1.jpg "初步類別圖1")
+![NKFUST](p2.jpg "初步類別圖2")
+![NKFUST](p3.jpg "初步類別圖3")
+
+
 [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
 <https://www.nkust.edu.tw/p/405-1000-5181,c2113.php>
