@@ -50,6 +50,10 @@
 ![NKFUST](p2.PNG "初步類別圖2")
 ![NKFUST](p3.PNG "初步類別圖3")
 
+##### 系統循序圖
+![NKFUST](s1.PNG "系統循序圖1")
+![NKFUST](s2.PNG "系統循序圖2")
+![NKFUST](s3.PNG "系統循序圖3")
 
 [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
