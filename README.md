@@ -80,7 +80,7 @@
 :cry:
 
 ![NKFUST](nkust.png "第一科大")
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/WCDY2gm0NH0?list=LLIV9W0b4KF-G7qbvUvz1_0Q "Everything Is AWESOME")
+[![GARNiDELiA-G.R.N.D](https://img.youtube.com/vi/WCDY2gm0NH0/0.jpg)](https://youtu.be/WCDY2gm0NH0 "GARNiDELiA-G.R.N.D")
 
 
 
