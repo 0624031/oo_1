@@ -10,19 +10,25 @@
 ```
 0624031 蕭博謙
 ```
-#### 需求清單
+### 需求清單
 
  可以查詢自己想要看的電影，和訂購電影票
 
-#### 功能性需求
+### 功能性需求
  * 註冊會員 
  * 電影資訊查詢
  * 電影訂票
-
-#### 非功能性需求
+ 
+### 非功能性需求
  * 穩定的系統
  * 簡單明瞭的圖形化介面
-#### 使用案例
+ 
+### 由上而下 排出 使用案例的重要性
+1. 會員註冊
+2. 電影查詢
+3. 電影訂票
+
+### 使用案例
  使用案例1 會員註冊
  1. 註冊會員
  2. 驗證信箱
@@ -38,10 +44,10 @@
  3. 點擊加入購物車
  4. 選擇付款方式，例如信用卡或是超商付款
 
-#### 使用案例圖
+### 使用案例圖
 ![NKFUST](uc.PNG "使用案例圖")
 
-##### User Story
+### User Story
  * 使用者可以註冊會員，在輸入個人資料後，驗證完信箱就可以完成註冊作業，進行登入 
  * 使用者可以利用條件搜尋，例如電影名稱、播放時段等，可以瀏覽簡略的電影資訊，以及觀看電影預告
  * 使用者在登入後可以把要看的電影加入到購物車，選擇付款方式後完成訂票
@@ -51,12 +57,15 @@
 ![NKFUST](p2.PNG "初步類別圖2")
 ![NKFUST](p3.PNG "初步類別圖3")
 
-##### 系統循序圖
+### 系統循序圖
 ![NKFUST](s1.PNG "系統循序圖1")
 
 ![NKFUST](s2.PNG "系統循序圖2")
 
 ![NKFUST](s3.PNG "系統循序圖3")
+
+### 強韌圖
+
 
 [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
@@ -71,7 +80,7 @@
 :cry:
 
 ![NKFUST](nkust.png "第一科大")
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/WCDY2gm0NH0?list=LLIV9W0b4KF-G7qbvUvz1_0Q "Everything Is AWESOME")
 
 
 
