@@ -66,6 +66,7 @@
 
 ### 強韌圖
 
+![NKFUST](強韌圖.jpg "強韌圖")
 
 [高科大](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
